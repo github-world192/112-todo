@@ -3,6 +3,7 @@
 This repository is for the first and second week of the course.
 In the first week, we will build a simple todo list app with pure JavaScript and Node.js Express.
 In the second week, we will add MongoDB to the app, and we will also introduce Axios, a powerful HTTP client for the browser and Node.js.
+## hi
 
 ## API documentation
 
